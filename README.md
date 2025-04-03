@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# 🚀 Redesigned Skip Selection Page
+
+## Overview
+This project is a redesigned version of the skip selection web page.
+ 
+## 🎨 Changes Made
+- **Added Filtering**: Added filtering for the skip types (All skips, commercial, private property only).
+- **Clean Code**: Clean, readability, maintainability.
+- **Better UI**: Improved UI with more delicate details and enhanced styles supporting mobile web view responsiveness while adhering to original style to align with the overall project theme.
+- **Added Animation**: Added hover effect animation over cards to enhance UX.
